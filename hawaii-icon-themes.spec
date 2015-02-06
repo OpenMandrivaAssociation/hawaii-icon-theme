@@ -3,7 +3,7 @@
 Summary:	Hawaii icon themes
 Name:		hawaii-icon-themes
 Version:	0.3.0
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/Other
 URL:		http://www.maui-project.org
