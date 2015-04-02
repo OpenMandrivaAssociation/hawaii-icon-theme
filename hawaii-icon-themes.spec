@@ -2,14 +2,15 @@
 
 Summary:	Hawaii icon themes
 Name:		hawaii-icon-themes
-Version:	0.3.0
-Release:	2
+Version:	0.4.0
+Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Other
 URL:		http://www.maui-project.org
 Source0:	http://downloads.sourceforge.net/project/mauios/hawaii/%{name}/%{name}-%{version}.tar.gz
 Source1:	hawaii-icon-themes.rpmlintrc
 BuildRequires:	cmake
+Requires:	hicolor-icon-theme
 
 %track
 prog %{name} = {
