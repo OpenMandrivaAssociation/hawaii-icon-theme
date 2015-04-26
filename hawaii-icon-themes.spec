@@ -3,7 +3,7 @@
 Summary:	Hawaii icon themes
 Name:		hawaii-icon-themes
 Version:	0.4.0
-Release:	2
+Release:	3
 License:	GPLv2+
 Group:		Graphical desktop/Other
 URL:		https://hawaii-desktop.github.io
@@ -14,7 +14,7 @@ Requires:	hicolor-icon-theme
 Requires:	adwaita-icon-theme
 # (tpg) these needs to be packaged
 #Requires:	faba-icon-theme
-#Requires:	captiva-icon-theme
+Requires:	captiva-icon-theme
 
 %track
 prog %{name} = {
