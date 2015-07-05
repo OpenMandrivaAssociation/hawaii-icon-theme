@@ -36,5 +36,4 @@ Hawaii icon themes.
 %makeinstall_std -C build
 
 %files
-%{_iconsdir}/hawaii
-%{_iconsdir}/elegant
+%{_iconsdir}/Hawaii
