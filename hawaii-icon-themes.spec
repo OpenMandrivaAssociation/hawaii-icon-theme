@@ -2,14 +2,14 @@
 
 Summary:	Hawaii icon themes
 Name:		hawaii-icon-themes
-Version:	0.5.0
+Version:	0.5.92
 Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Other
 URL:		https://hawaii-desktop.github.io
 Source0:	https://github.com/hawaii-desktop/%{name}/archive/%{name}-%{version}.tar.xz
 Source1:	hawaii-icon-themes.rpmlintrc
-BuildRequires:	cmake
+BuildRequires:	cmake(ECM)
 Requires:	hicolor-icon-theme
 Requires:	adwaita-icon-theme
 Requires:	faba-icon-theme
