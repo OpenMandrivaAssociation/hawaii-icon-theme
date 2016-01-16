@@ -26,7 +26,7 @@ prog %{name} = {
 Hawaii icon themes.
 
 %prep
-%setup -q
+%setup -qn hawaii-icon-theme-%{version}
 
 %build
 %cmake
