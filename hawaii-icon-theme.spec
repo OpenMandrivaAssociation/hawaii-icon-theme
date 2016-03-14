@@ -14,6 +14,7 @@ Requires:	hicolor-icon-theme
 Requires:	adwaita-icon-theme
 Requires:	faba-icon-theme
 Requires:	captiva-icon-theme
+%rename		hawaii-icon-themes
 
 %track
 prog %{name} = {
