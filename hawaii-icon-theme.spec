@@ -2,7 +2,7 @@
 
 Summary:	Hawaii icon theme
 Name:		hawaii-icon-theme
-Version:	0.6.90
+Version:	0.8.0
 Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Other
